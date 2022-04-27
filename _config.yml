@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Erica Bulzomi / Research Technician"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title_separator          : "|"
+name                     : &name "Erica Bulzomi"
+description              : &description "I am a research technician in the Zador Lab at Cold Spring Harbor Laboratory, and a recent graduate of Goucher College with a degree in Biochemistry and Molecular Biology."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
