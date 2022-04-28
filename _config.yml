@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Erica Bulzomi"
-  avatar           : "desktop/CSHL/EB photo.jpg"
+  avatar           : "https://ebulzomi.github.io/files/EB Photo.pdf"
   bio              : "Research Technician in the Zador Lab. Goucher College Class of 2021 - Biochemistry and Molecular Biology, concentration in Pre-Medical Studies."
   location         : "Long Island, New York"
   employer         : "Cold Spring Harbor Laboratory"
